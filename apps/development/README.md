@@ -4,16 +4,18 @@ Recommended applications and tools for software development. *This section may c
 
 ## IDEs & Code Editors
 
-*Content to be added by maintainer.*
+- [VSCodium](./VSCodium.md) - Open-source code editor
+- [Builder](./Builder.md) - An IDE for GNOME
+- [Ptyxis](./Ptyxis.md) - GTK4 terminal emulator
 
 ## Version Control
 
-*Content to be added by maintainer.*
+- [Git Cola](./Git%20Cola.md) - Git GUI client
 
 ## Development Tools
 
-*Content to be added by maintainer.*
+- [Terminal](./Terminal.md) - GNOME Terminal
 
-## Servers & Databases
-
-*Content to be added by maintainer.*
+---
+*Created: 17-08-2026*
+*Last updated: 17-08-2026*

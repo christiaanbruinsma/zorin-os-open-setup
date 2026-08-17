@@ -4,16 +4,25 @@ Recommended applications for graphic design, video editing, audio production, an
 
 ## Graphic Design
 
-*Content to be added by maintainer.*
+- [GIMP](./GIMP.md) - GNU Image Manipulation Program
+- [Inkscape](./Inkscape.md) - Vector graphics editor
+- [Krita](./Krita.md) - Digital painting program
+- [gThumb](./gThumb.md) - Image viewer and organizer
 
 ## Video Editing
 
-*Content to be added by maintainer.*
+- [Kdenlive](./Kdenlive.md) - Video editing software
+- [HandBrake](./HandBrake.md) - Video transcoder
 
 ## Audio Production
 
-*Content to be added by maintainer.*
+- [Audacity](./Audacity.md) - Audio editing and recording
 
 ## Media Management
 
-*Content to be added by maintainer.*
+- [VLC](./VLC.md) - Media player
+- [Foliate](./Foliate.md) - eBook reader
+
+---
+*Created: 17-08-2026*
+*Last updated: 17-08-2026*

@@ -4,12 +4,19 @@ Tools for running non-Linux software and integrating mainstream services. All re
 
 ## Windows Application Support
 
-*Content to be added by maintainer (e.g., Wine, Bottles, PlayOnLinux).*
+Information only. Not affiliated with or endorsed by app developers.
 
 ## Virtualization
 
-*Content to be added by maintainer (e.g., VirtualBox, GNOME Boxes).*
+Information only. Not affiliated with or endorsed by app developers.
 
 ## Mainstream Service Integrations
 
-*Content to be added by maintainer (e.g., Microsoft 365, Google Workspace).*
+Information only. Not affiliated with or endorsed by app developers.
+
+---
+*Created: 17-08-2026*
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

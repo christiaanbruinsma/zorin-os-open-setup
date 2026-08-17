@@ -4,16 +4,30 @@ Recommended applications for office work, communication, and organization.
 
 ## Office Suites
 
-*Content to be added by maintainer.*
+- [OnlyOffice](./OnlyOffice.md) - Office suite for text documents, spreadsheets and presentations
 
 ## Email Clients
 
-*Content to be added by maintainer.*
+- [Evolution](./Evolution.md) - Email and calendar client
+- [Thunderbird](./Thunderbird.md) - Open-source email client
 
 ## Note-Taking
 
-*Content to be added by maintainer.*
+- [Obsidian](./Obsidian.md) - Knowledge base and note-taking application
+- [Apostrophe](./Apostrophe.md) - Distraction-free Markdown editor
 
 ## Calendar & Scheduling
 
-*Content to be added by maintainer.*
+- [Calendar](./Calendar.md) - Calendar application
+- [Contacts](./Contacts.md) - Contacts manager
+
+## Communication
+
+- [Signal Desktop](./Signal%20Desktop.md) - Secure messaging
+- [Telegram](./Telegram.md) - Messaging app
+- [Ferdium](./Ferdium.md) - Chat client for multiple services
+- [Zoom](./Zoom.md) - Video conferencing
+
+---
+*Created: 17-08-2026*
+*Last updated: 17-08-2026*
