@@ -4,15 +4,15 @@ Tools for running non-Linux software and integrating mainstream services. All re
 
 ## Windows Application Support
 
-Information only. Not affiliated with or endorsed by app developers.
+To be drafted...
 
 ## Virtualization
 
-Information only. Not affiliated with or endorsed by app developers.
+To be drafted...
 
 ## Mainstream Service Integrations
 
-Information only. Not affiliated with or endorsed by app developers.
+To be drafted...
 
 ---
 *Created: 17-08-2026*<br>
