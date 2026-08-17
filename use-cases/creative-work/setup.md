@@ -98,3 +98,10 @@ Step-by-step guide to configure your Zorin OS system for creative work.
 - **Monitor**: Color-accurate display with at least 95% sRGB coverage
 - **Storage**: Fast SSD for active projects, HDD for archive
 - **Memory**: 16GB+ RAM for video editing and large graphic files
+
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

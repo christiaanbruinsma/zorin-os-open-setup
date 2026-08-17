@@ -19,3 +19,10 @@ Each use case folder contains:
 - Use cases provide **end-to-end recommendations** for a specific purpose
 - They may reference and combine content from the [`apps/`](../apps/) section
 - Technical depth varies by audience (office work = accessible, development = may be technical)
+
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

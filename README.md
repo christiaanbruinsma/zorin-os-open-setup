@@ -23,5 +23,9 @@ This guide exists because the switch to Linux should not require you to be an ex
 ## About this guide
 This guide is a personal initiative by Christiaan Bruinsma, driven by a passion for open-source and a desire to help others make the switch to Zorin OS. It is not affiliated with or endorsed by Zorin OS.
 
-Created on: 17-08-2026
-Last updated: 17-08-2026
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

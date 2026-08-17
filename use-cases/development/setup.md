@@ -56,3 +56,10 @@ Step-by-step guide to configure your Zorin OS system for development. *This sect
 - If git commands fail: Check your SSH keys and repository permissions
 - If build tools are missing: Install required dependencies with `sudo apt build-dep <package>`
 - If editor extensions don't work: Check compatibility with your editor version
+
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

@@ -131,3 +131,10 @@ Step-by-step guide to configure your Zorin OS system for system administration a
 - **Cron Jobs**: Set up automated maintenance with `crontab -e`
 - **Systemd Services**: Create custom services for background tasks
 - **Logging**: Configure rsyslog for advanced logging needs
+
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

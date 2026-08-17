@@ -22,3 +22,10 @@ This use case provides a **privacy-conscious** office setup that maintains famil
 - All recommendations balance usability with privacy
 - Mainstream software integrations are included where they aid transition
 - Open-source alternatives are preferred when they meet practical needs
+
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

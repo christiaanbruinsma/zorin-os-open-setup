@@ -62,3 +62,10 @@ Step-by-step guide to configure your Zorin OS system for office work.
 - If OnlyOffice doesn't open files: Install additional font packages
 - If Evolution doesn't connect: Check your email provider's IMAP/SMTP settings
 - If video calls have poor quality: Check your internet connection and close background apps
+
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*

@@ -23,3 +23,10 @@ This use case provides **practical tools** for maintaining your Zorin OS system,
 - This section may include technical explanations
 - Focus is on practical system maintenance needs
 - Privacy considerations are balanced with functionality
+
+---
+*Created: 17-08-2026*<br>
+*Last updated: 17-08-2026*
+
+---
+*Information only. Not affiliated with or endorsed by app developers. Verify current features and information, as apps may change over time.*
