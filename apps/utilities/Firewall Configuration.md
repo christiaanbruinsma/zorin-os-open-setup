@@ -1,6 +1,6 @@
 # Firewall Configuration
 
-**Category:** Utilities → Firewall
+**Category:** Utilities → Firewall<br>
 **Website:** [https://github.com/costales/gufw](https://github.com/costales/gufw)
 
 Use this app as an easy and intuitive way to manage your Linux firewall. gufw supports common tasks such as allowing or blocking pre-configured applications, common P2P applications, or individual ports.

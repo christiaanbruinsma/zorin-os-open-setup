@@ -1,6 +1,6 @@
 # Gradia
 
-**Category:** Utilities → Screenshot Enhancement
+**Category:** Utilities → Screenshot Enhancement<br>
 **Website:** [https://gradia.alexandervanhee.be/](https://gradia.alexandervanhee.be/)
 
 Use this app to make your screenshots ready for sharing. Gradia helps you beautify, annotate, and share screenshots seamlessly, allowing you to quickly modify screenshots of application windows, add backgrounds, annotations, and prepare them for sharing with friends, colleagues, or a professional audience.

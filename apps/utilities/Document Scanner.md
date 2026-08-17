@@ -1,6 +1,6 @@
 # Document Scanner
 
-**Category:** Utilities → Scanner
+**Category:** Utilities → Scanner<br>
 **Website:** [https://apps.gnome.org/SimpleScan/](https://apps.gnome.org/SimpleScan/)
 
 Use this app to make a digital copy of your photos and documents. Document Scanner is an easy way to scan both text and images, with options to crop, rotate, and export your scans.

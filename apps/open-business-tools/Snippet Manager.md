@@ -1,6 +1,6 @@
 # Snippet Manager
 
-**Category:** Open Business Tools → Everyday Work
+**Category:** Open Business Tools → Everyday Work<br>
 **Website:** https://github.com/christiaanbruinsma/snippet-manager
 
 Organize and reuse replies, business details, code fragments and other frequently used text. Save time by quickly inserting pre-defined text snippets.

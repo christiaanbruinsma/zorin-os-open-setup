@@ -1,6 +1,6 @@
 # Characters
 
-**Category:** Utilities → Character Map
+**Category:** Utilities → Character Map<br>
 **Website:** [https://apps.gnome.org/Characters/](https://apps.gnome.org/Characters/)
 
 Use this app to find and insert unusual characters, emoji, and symbols. Characters is a simple utility that allows you to quickly find the character you are looking for by searching for keywords or browsing by categories.

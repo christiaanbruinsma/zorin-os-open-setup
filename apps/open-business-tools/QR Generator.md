@@ -1,6 +1,6 @@
 # QR Generator
 
-**Category:** Open Business Tools → Everyday Work
+**Category:** Open Business Tools → Everyday Work<br>
 **Website:** https://github.com/christiaanbruinsma/qr-generator
 
 Create and export QR codes locally as PNG or SVG without accounts, tracking or history. Generate QR codes for various use cases while maintaining privacy.

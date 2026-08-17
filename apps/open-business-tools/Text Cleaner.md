@@ -1,6 +1,6 @@
 # Text Cleaner
 
-**Category:** Open Business Tools → Everyday Work
+**Category:** Open Business Tools → Everyday Work<br>
 **Website:** https://github.com/christiaanbruinsma/text-cleaner
 
 Inspect and clean text copied from websites, AI tools, email and office documents. Remove unwanted formatting and characters.

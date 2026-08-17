@@ -1,6 +1,6 @@
 # FileZilla
 
-**Category:** Utilities → File Transfer
+**Category:** Utilities → File Transfer<br>
 **Website:** [https://filezilla-project.org/](https://filezilla-project.org/)
 
 Use this app to transfer files between your computer and remote servers. FileZilla is a cross-platform FTP, FTPS, and SFTP client with an intuitive interface.

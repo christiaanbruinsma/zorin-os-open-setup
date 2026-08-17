@@ -1,6 +1,6 @@
 # Brasero
 
-**Category:** Utilities → Disc Burning
+**Category:** Utilities → Disc Burning<br>
 **Website:** [https://gitlab.gnome.org/GNOME/brasero](https://gitlab.gnome.org/GNOME/brasero)
 
 Use this app to create and copy CDs and DVDs. Brasero is a CD/DVD mastering tool for the GNOME Desktop, designed to be simple and easy to use for burning optical media.

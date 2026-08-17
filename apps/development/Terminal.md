@@ -1,6 +1,6 @@
 # Terminal
 
-**Category:** Development → Terminal
+**Category:** Development → Terminal<br>
 **Website:** [https://gitlab.gnome.org/GNOME/gnome-terminal](https://gitlab.gnome.org/GNOME/gnome-terminal)
 
 Use this app as a terminal emulator for the GNOME desktop environment. Terminal allows you to execute commands, run programs, and access the command-line interface with a user-friendly graphical window.

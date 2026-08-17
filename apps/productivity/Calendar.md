@@ -1,6 +1,6 @@
 # Calendar
 
-**Category:** Productivity → Calendar
+**Category:** Productivity → Calendar<br>
 **Website:** [https://apps.gnome.org/Calendar/](https://apps.gnome.org/Calendar/)
 
 Use this app to manage your schedule. Calendar is an elegant tool by The GNOME Project that helps you plan and stay on top of your schedule for upcoming days, weeks, and months.

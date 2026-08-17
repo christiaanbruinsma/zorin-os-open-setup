@@ -1,6 +1,6 @@
 # Disks
 
-**Category:** Utilities → Disk Management
+**Category:** Utilities → Disk Management<br>
 **Website:** [https://apps.gnome.org/DiskUtility/](https://apps.gnome.org/DiskUtility/)
 
 Use this app to view, modify, and configure disks and storage media. Disks by The GNOME Project provides tools for managing your storage devices, including mounting, formatting, and monitoring.

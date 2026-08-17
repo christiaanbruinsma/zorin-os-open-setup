@@ -1,6 +1,6 @@
 # Halftone
 
-**Category:** Utilities → Image Processing
+**Category:** Utilities → Image Processing<br>
 **Website:** [https://github.com/tfuxu/Halftone](https://github.com/tfuxu/Halftone)
 
 Use this app to give your images a pixel art-like style. Halftone is a simple Libadwaita app for lossy image compression using quantization and dithering techniques, which can also significantly reduce image file size.

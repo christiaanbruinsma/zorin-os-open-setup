@@ -1,6 +1,6 @@
 # Extension Manager
 
-**Category:** Utilities → Extensions
+**Category:** Utilities → Extensions<br>
 **Website:** [https://github.com/mjakeman/extension-manager](https://github.com/mjakeman/extension-manager)
 
 Use this app to browse, install, and manage GNOME Shell Extensions. Extension Manager is a native tool by Matthew Jakeman for discovering and managing extensions from extensions.gnome.org.

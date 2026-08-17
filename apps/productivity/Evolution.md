@@ -1,6 +1,6 @@
 # Evolution
 
-**Category:** Productivity → Email
+**Category:** Productivity → Email<br>
 **Website:** [https://wiki.gnome.org/Apps/Evolution](https://wiki.gnome.org/Apps/Evolution)
 
 Use this app to manage your email, calendar, and contacts in one place. Evolution is a full-featured personal information manager with a clean interface and supports Outlook, Gmail, and IMAP accounts.

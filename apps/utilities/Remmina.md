@@ -1,6 +1,6 @@
 # Remmina
 
-**Category:** Utilities → Remote Desktop
+**Category:** Utilities → Remote Desktop<br>
 **Website:** [https://remmina.org/](https://remmina.org/)
 
 Use this app for remote access to other desktops and file sharing. Remmina is a free and open-source remote desktop client that supports multiple protocols.

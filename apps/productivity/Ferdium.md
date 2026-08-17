@@ -1,6 +1,6 @@
 # Ferdium
 
-**Category:** Productivity → Communication
+**Category:** Productivity → Communication<br>
 **Website:** [https://ferdium.org/](https://ferdium.org/)
 
 Use this app to have all your services in one place. Ferdium is a community-built tool that lets you add and manage multiple services from a single interface.

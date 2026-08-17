@@ -1,6 +1,6 @@
 # PDF Workbench
 
-**Category:** Open Business Tools → Everyday Work
+**Category:** Open Business Tools → Everyday Work<br>
 **Website:** https://github.com/christiaanbruinsma/pdf-workbench
 
 Preview, organize, merge, rotate, extract and split PDF pages while keeping source files untouched. Comprehensive PDF management tool.

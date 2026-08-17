@@ -1,6 +1,6 @@
 # LocalSend
 
-**Category:** Utilities → File Transfer
+**Category:** Utilities → File Transfer<br>
 **Website:** [https://localsend.org/](https://localsend.org/)
 
 Use this app to share files without the cloud. LocalSend provides fast, private, offline file sharing across your local network, allowing you to transfer files between nearby devices securely without requiring internet access or third-party servers.

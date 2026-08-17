@@ -1,6 +1,6 @@
 # Firefox
 
-**Category:** Utilities → Web Browser
+**Category:** Utilities → Web Browser<br>
 **Website:** [https://www.mozilla.org/en-US/firefox/](https://www.mozilla.org/en-US/firefox/)
 
 Use this app as a fast, private browser that puts you in control. Firefox blocks trackers by default and offers features like tab groups, reader mode, and cross-device sync.

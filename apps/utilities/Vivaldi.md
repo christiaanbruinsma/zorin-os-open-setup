@@ -1,6 +1,6 @@
 # Vivaldi
 
-**Category:** Utilities → Web Browser
+**Category:** Utilities → Web Browser<br>
 **Website:** [https://vivaldi.com/](https://vivaldi.com/)
 
 Use this app as a powerful, personal, and private web browser with unmatched customization. Vivaldi is designed for users who demand more from their browser.

@@ -1,6 +1,6 @@
 # Mission Center
 
-**Category:** Utilities → System Monitor
+**Category:** Utilities → System Monitor<br>
 **Website:** [https://missioncenter.io/](https://missioncenter.io/)
 
 Use this app to monitor your CPU, Memory, Disk, Network, and GPU usage. Mission Center provides a comprehensive overview of your system's performance in a clean, user-friendly interface.

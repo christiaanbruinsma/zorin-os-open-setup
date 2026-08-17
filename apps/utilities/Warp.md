@@ -1,6 +1,6 @@
 # Warp
 
-**Category:** Utilities → File Transfer
+**Category:** Utilities → File Transfer<br>
 **Website:** [https://apps.gnome.org/Warp/](https://apps.gnome.org/Warp/)
 
 Use this app for fast and secure file transfer. Warp allows you to securely send files between devices via the internet or local network by exchanging a word-based code, using the Magic Wormhole protocol.

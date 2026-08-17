@@ -1,6 +1,6 @@
 # Maps
 
-**Category:** Utilities → Maps
+**Category:** Utilities → Maps<br>
 **Website:** [https://apps.gnome.org/Maps/](https://apps.gnome.org/Maps/)
 
 Use this app to find places around the world. Maps gives you quick access to maps globally, allowing you to quickly find the place you are looking for by searching for a city or street, or locate a place to meet a friend. Maps uses the collaborative OpenStreetMap database.

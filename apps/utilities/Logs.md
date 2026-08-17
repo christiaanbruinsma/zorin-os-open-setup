@@ -1,6 +1,6 @@
 # Logs
 
-**Category:** Utilities → System Logs
+**Category:** Utilities → System Logs<br>
 **Website:** [https://apps.gnome.org/Logs/](https://apps.gnome.org/Logs/)
 
 Use this app to view detailed event logs for your system. Logs displays events from the systemd journal and organizes them into categories such as hardware and applications, allowing you to search logs and view detailed information about each event.

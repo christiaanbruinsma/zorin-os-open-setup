@@ -1,6 +1,6 @@
 # Google Chrome
 
-**Category:** Utilities → Web Browser
+**Category:** Utilities → Web Browser<br>
 **Website:** [https://www.google.com/chrome/](https://www.google.com/chrome/)
 
 Use this app if you rely on Google Chrome for work, specific websites, or extensions that require it.

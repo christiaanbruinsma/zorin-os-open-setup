@@ -1,6 +1,6 @@
 # HandBrake
 
-**Category:** Creativity → Video Transcoding
+**Category:** Creativity → Video Transcoding<br>
 **Website:** [https://handbrake.fr/](https://handbrake.fr/)
 
 Use this app to convert video from nearly any format. HandBrake is an open-source video transcoder that converts video files to modern, widely supported codecs, making it ideal for creating compatible versions of your videos for various devices and platforms.

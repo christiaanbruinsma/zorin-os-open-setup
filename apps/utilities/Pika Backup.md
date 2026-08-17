@@ -1,6 +1,6 @@
 # Pika Backup
 
-**Category:** Utilities → Backup
+**Category:** Utilities → Backup<br>
 **Website:** [https://apps.gnome.org/PikaBackup/](https://apps.gnome.org/PikaBackup/)
 
 Use this app to keep your data safe. Pika Backup makes backups the easy way: plug in your USB drive and let Pika do the rest.

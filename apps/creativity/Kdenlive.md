@@ -1,6 +1,6 @@
 # Kdenlive
 
-**Category:** Creativity → Video Editor
+**Category:** Creativity → Video Editor<br>
 **Website:** [https://kdenlive.org/](https://kdenlive.org/)
 
 Use this app for free and open-source video editing. Kdenlive (KDE Non-Linear Video Editor) is a powerful video editor that works on Linux, Windows, macOS, and BSD, providing professional-grade editing capabilities for all skill levels.

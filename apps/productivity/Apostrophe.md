@@ -1,6 +1,6 @@
 # Apostrophe
 
-**Category:** Productivity → Markdown Editor
+**Category:** Productivity → Markdown Editor<br>
 **Website:** [https://apps.gnome.org/Apostrophe/](https://apps.gnome.org/Apostrophe/)
 
 Use this app to edit Markdown in style. Apostrophe is a clean, distraction-free markdown editor by Manuel Genovés, designed to help you focus on your writing.

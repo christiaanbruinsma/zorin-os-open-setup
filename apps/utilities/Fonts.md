@@ -1,6 +1,6 @@
 # Fonts
 
-**Category:** Utilities → Font Management
+**Category:** Utilities → Font Management<br>
 **Website:** [https://apps.gnome.org/FontViewer/](https://apps.gnome.org/FontViewer/)
 
 Use this app to view and manage fonts on your system. Fonts displays all installed fonts as thumbnails, allowing you to preview how each font looks at various sizes. It also supports installing new font files in formats such as .ttf.

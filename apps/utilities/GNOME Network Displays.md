@@ -1,6 +1,6 @@
 # GNOME Network Displays
 
-**Category:** Utilities → Screen Casting
+**Category:** Utilities → Screen Casting<br>
 **Website:** [https://gitlab.gnome.org/GNOME/gnome-network-displays](https://gitlab.gnome.org/GNOME/gnome-network-displays)
 
 Use this app to cast your desktop to a remote display. GNOME Network Displays allows you to stream your screen to compatible devices using wireless display technologies such as Miracast and Chromecast.

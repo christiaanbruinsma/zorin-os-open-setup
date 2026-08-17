@@ -1,6 +1,6 @@
 # Foliate
 
-**Category:** Creativity → E-Book Reader
+**Category:** Creativity → E-Book Reader<br>
 **Website:** [https://github.com/johnfactotum/foliate](https://github.com/johnfactotum/foliate)
 
 Use this app to read e-books in style. Foliate is a simple and modern GTK eBook reader that supports various eBook formats with a clean, user-friendly interface.

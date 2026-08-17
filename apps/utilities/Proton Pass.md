@@ -1,6 +1,6 @@
 # Proton Pass
 
-**Category:** Utilities → Security
+**Category:** Utilities → Security<br>
 **Website:** [https://proton.me/pass](https://proton.me/pass)
 
 Use this app as a password manager with end-to-end encryption. Proton Pass securely stores, shares, and autofills your credentials, passkeys, email aliases, and more, protecting your sensitive information with zero-knowledge encryption.

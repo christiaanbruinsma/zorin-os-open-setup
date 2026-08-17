@@ -1,6 +1,6 @@
 # VSCodium
 
-**Category:** Development → Code Editor
+**Category:** Development → Code Editor<br>
 **Website:** [https://vscodium.com/](https://vscodium.com/)
 
 Use this app to write and edit code with a powerful, customizable editor. VSCodium is a community-driven, freely-licensed binary distribution of a popular code editor with telemetry disabled by default.

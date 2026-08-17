@@ -1,6 +1,6 @@
 # Clocks
 
-**Category:** Utilities → Clock
+**Category:** Utilities → Clock<br>
 **Website:** [https://apps.gnome.org/Clocks/](https://apps.gnome.org/Clocks/)
 
 Use this app to keep track of time. Clocks is a simple and elegant clock application by The GNOME Project that includes world clocks, alarms, a stopwatch, and timers.

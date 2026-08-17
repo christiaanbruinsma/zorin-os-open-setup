@@ -1,6 +1,6 @@
 # VLC
 
-**Category:** Creativity → Media Player
+**Category:** Creativity → Media Player<br>
 **Website:** [https://www.videolan.org/](https://www.videolan.org/)
 
 Use this app as a free and open-source cross-platform multimedia player. VLC plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols, making it a versatile solution for all your media playback needs.

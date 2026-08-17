@@ -1,6 +1,6 @@
 # Krita
 
-**Category:** Creativity → Digital Painting
+**Category:** Creativity → Digital Painting<br>
 **Website:** [https://krita.org/en/](https://krita.org/en/)
 
 Use this app for professional digital painting. Krita is a professional free and open-source painting program made by artists that want to see affordable art tools for everyone, offering a comprehensive suite of tools for digital artists.

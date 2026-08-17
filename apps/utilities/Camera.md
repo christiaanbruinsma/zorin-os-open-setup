@@ -1,6 +1,6 @@
 # Camera
 
-**Category:** Utilities → Camera
+**Category:** Utilities → Camera<br>
 **Website:** [https://apps.gnome.org/Snapshot/](https://apps.gnome.org/Snapshot/)
 
 Use this app to take pictures and videos on your computer, tablet, or phone.

@@ -1,6 +1,6 @@
 # Signal Desktop
 
-**Category:** Productivity → Communication
+**Category:** Productivity → Communication<br>
 **Website:** [https://signal.org/](https://signal.org/)
 
 Use this app to communicate with end-to-end encryption. Signal Desktop allows you to send messages, make voice and video calls, share files, and more with state-of-the-art encryption that keeps your conversations secure and private.

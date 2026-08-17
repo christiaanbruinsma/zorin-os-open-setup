@@ -1,6 +1,6 @@
 # Delivery Hub
 
-**Category:** Open Business Tools → Workspace & Delivery
+**Category:** Open Business Tools → Workspace & Delivery<br>
 **Website:** https://github.com/christiaanbruinsma/delivery-hub
 
 Prepare and verify delivery packages with manifests, checksums and structured ZIP exports. Ensures accurate and reliable delivery of files to clients or team members.

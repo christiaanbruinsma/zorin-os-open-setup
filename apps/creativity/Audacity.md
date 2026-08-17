@@ -1,6 +1,6 @@
 # Audacity
 
-**Category:** Creativity → Audio Editor
+**Category:** Creativity → Audio Editor<br>
 **Website:** [https://www.audacityteam.org/](https://www.audacityteam.org/)
 
 Use this app to record and edit audio. Audacity is the world's most popular free, easy-to-use, multi-track audio editor and recorder for creating music, podcasts, and other audio content.

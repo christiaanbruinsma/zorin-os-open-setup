@@ -1,6 +1,6 @@
 # Telegram
 
-**Category:** Productivity → Communication
+**Category:** Productivity → Communication<br>
 **Website:** [https://telegram.org/](https://telegram.org/)
 
 Use this app as a cloud-based messaging app for mobile and desktop with a focus on security and speed.

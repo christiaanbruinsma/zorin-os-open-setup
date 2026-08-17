@@ -1,6 +1,6 @@
 # Brave Browser
 
-**Category:** Utilities → Web Browser
+**Category:** Utilities → Web Browser<br>
 **Website:** [https://brave.com/](https://brave.com/)
 
 Use this app as a browser that prioritizes privacy and performance. Brave blocks ads and trackers by default, resulting in faster page loads and reduced data usage.

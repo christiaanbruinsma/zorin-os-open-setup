@@ -1,6 +1,6 @@
 # GNOME Tweaks
 
-**Category:** Utilities → Customization
+**Category:** Utilities → Customization<br>
 **Website:** [https://gitlab.gnome.org/GNOME/gnome-tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks)
 
 Use this app to customize advanced GNOME settings not available in the standard Settings app. GNOME Tweaks provides access to additional configuration options for fine-tuning your desktop experience.

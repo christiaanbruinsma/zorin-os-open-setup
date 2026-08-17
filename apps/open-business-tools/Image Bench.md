@@ -1,6 +1,6 @@
 # Image Bench
 
-**Category:** Open Business Tools → Everyday Work
+**Category:** Open Business Tools → Everyday Work<br>
 **Website:** https://github.com/christiaanbruinsma/image-bench
 
 Resize, compare and optimize batches of JPEG and PNG images locally. Process multiple images efficiently without uploading to external services.

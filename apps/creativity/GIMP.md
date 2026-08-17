@@ -1,6 +1,6 @@
 # GIMP
 
-**Category:** Creativity → Image Editor
+**Category:** Creativity → Image Editor<br>
 **Website:** [https://www.gimp.org/](https://www.gimp.org/)
 
 Use this app as a free and open-source image editor. GIMP (GNU Image Manipulation Program) is a cross-platform image editor that provides sophisticated tools for graphic designers, photographers, illustrators, and scientists to get their work done.

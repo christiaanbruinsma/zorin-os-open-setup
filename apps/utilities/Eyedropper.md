@@ -1,6 +1,6 @@
 # Eyedropper
 
-**Category:** Utilities → Color Picker
+**Category:** Utilities → Color Picker<br>
 **Website:** [https://github.com/FineFindus/eyedropper](https://github.com/FineFindus/eyedropper)
 
 Use this app to pick and format colors. Eyedropper is a tool by FineFindus for advanced users (developers, designers, etc.) who need to pick, modify, or view colors in different formats.

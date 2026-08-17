@@ -1,6 +1,6 @@
 # Blanket
 
-**Category:** Utilities → Ambient Sounds
+**Category:** Utilities → Ambient Sounds<br>
 **Website:** [https://github.com/rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket)
 
 Use this app to listen to different sounds. Blanket helps you improve focus and increase productivity, or fall asleep in a noisy environment.

@@ -1,6 +1,6 @@
 # Contacts
 
-**Category:** Productivity → Contacts
+**Category:** Productivity → Contacts<br>
 **Website:** [https://apps.gnome.org/Contacts/](https://apps.gnome.org/Contacts/)
 
 Use this app to manage your contacts. Contacts keeps and organizes your contacts information, allowing you to create, edit, delete, and link together pieces of information about your contacts. It aggregates details from all your sources, providing a centralized place for managing contacts, and integrates with online address books.

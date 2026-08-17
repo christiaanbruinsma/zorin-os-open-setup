@@ -1,6 +1,6 @@
 # Passwords and Keys
 
-**Category:** Utilities → Security
+**Category:** Utilities → Security<br>
 **Website:** [https://gitlab.gnome.org/GNOME/seahorse](https://gitlab.gnome.org/GNOME/seahorse)
 
 Use this app to create and manage PGP and SSH keys and to save passwords that are difficult to remember. Passwords and Keys provides a secure way to store passwords and manage encryption keys for secure communications and authentication.

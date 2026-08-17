@@ -1,6 +1,6 @@
 # Git Desk
 
-**Category:** Open Business Tools → Development Tools
+**Category:** Open Business Tools → Development Tools<br>
 **Website:** https://github.com/christiaanbruinsma/git-desk
 
 Easy to start. Powerful enough to stay. A user-friendly Git client with all basic Git features plus a built-in Git Guide.

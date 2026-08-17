@@ -1,6 +1,6 @@
 # File Roller
 
-**Category:** Utilities → Archive Manager
+**Category:** Utilities → Archive Manager<br>
 **Website:** [https://gitlab.gnome.org/GNOME/file-roller](https://gitlab.gnome.org/GNOME/file-roller)
 
 Use this app as an archive manager utility for the GNOME Environment. File Roller is a graphical front-end to archiving programs like tar and zip, allowing you to create, modify, and extract archives.

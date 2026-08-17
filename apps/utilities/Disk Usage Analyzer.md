@@ -1,6 +1,6 @@
 # Disk Usage Analyzer
 
-**Category:** Utilities → Disk Analysis
+**Category:** Utilities → Disk Analysis<br>
 **Website:** [https://apps.gnome.org/Baobab/](https://apps.gnome.org/Baobab/)
 
 Use this app to check folder sizes and available disk space. Disk Usage Analyzer is a simple application by The GNOME Project that helps you keep your disk usage under control.

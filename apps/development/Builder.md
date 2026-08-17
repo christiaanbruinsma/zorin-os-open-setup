@@ -1,6 +1,6 @@
 # Builder
 
-**Category:** Development → IDE
+**Category:** Development → IDE<br>
 **Website:** [https://apps.gnome.org/Builder](https://apps.gnome.org/Builder)
 
 Use this app to develop software for GNOME. Builder is an IDE focused on writing GNOME-based software, designed to streamline development for the GNOME platform.

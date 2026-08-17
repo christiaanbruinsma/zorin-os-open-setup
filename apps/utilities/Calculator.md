@@ -1,6 +1,6 @@
 # Calculator
 
-**Category:** Utilities → Calculator
+**Category:** Utilities → Calculator<br>
 **Website:** [https://apps.gnome.org/Calculator/](https://apps.gnome.org/Calculator/)
 
 Use this app to perform arithmetic, scientific, or financial calculations. Calculator by The GNOME Project solves mathematical equations with multiple modes for different needs.

@@ -1,6 +1,6 @@
 # Git Cola
 
-**Category:** Development → Git GUI
+**Category:** Development → Git GUI<br>
 **Website:** [https://git-cola.github.io/](https://git-cola.github.io/)
 
 Use this app as a sleek and powerful graphical user interface for Git. Git Cola is designed for efficiency and productivity, making Git operations more accessible through an intuitive interface.

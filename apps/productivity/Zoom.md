@@ -1,6 +1,6 @@
 # Zoom
 
-**Category:** Productivity → Communication
+**Category:** Productivity → Communication<br>
 **Website:** [https://www.zoom.us/](https://www.zoom.us/)
 
 Use this app for video conferencing and online meetings. Zoom provides a platform for virtual meetings, webinars, and collaboration with features like video calls, screen sharing, and chat.

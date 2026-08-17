@@ -1,6 +1,6 @@
 # RustDesk
 
-**Category:** Utilities → Remote Desktop
+**Category:** Utilities → Remote Desktop<br>
 **Website:** [https://rustdesk.com/](https://rustdesk.com/)
 
 Use this app to remotely access and control other computers. RustDesk is a secure, open-source alternative for remote desktop connections, ideal for providing remote support.

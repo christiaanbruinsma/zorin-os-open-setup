@@ -1,6 +1,6 @@
 # Ptyxis
 
-**Category:** Development → Terminal
+**Category:** Development → Terminal<br>
 **Website:** [https://gitlab.gnome.org/chergert/ptyxis](https://gitlab.gnome.org/chergert/ptyxis)
 
 Use this app as a modern terminal emulator built for the container era, designed to seamlessly navigate between your host system and local containers like Podman, Toolbox, and Distrobox.

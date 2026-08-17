@@ -1,6 +1,6 @@
 # OnlyOffice
 
-**Category:** Productivity → Office Suite
+**Category:** Productivity → Office Suite<br>
 **Website:** [https://www.onlyoffice.com](https://www.onlyoffice.com)
 
 Use this app to work on your office files such as text documents, spreadsheets, presentations, and PDF files. OnlyOffice has a nice modern interface and supports various file formats like Word and Excel.

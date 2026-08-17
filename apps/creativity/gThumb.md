@@ -1,6 +1,6 @@
 # gThumb
 
-**Category:** Creativity → Image Viewer
+**Category:** Creativity → Image Viewer<br>
 **Website:** [https://wiki.gnome.org/Apps/gThumb](https://wiki.gnome.org/Apps/gThumb)
 
 Use this app to view and manage your image files. gThumb is a lightweight image viewer with basic editing capabilities.

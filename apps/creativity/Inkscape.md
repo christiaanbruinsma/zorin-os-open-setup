@@ -1,6 +1,6 @@
 # Inkscape
 
-**Category:** Creativity → Vector Graphics
+**Category:** Creativity → Vector Graphics<br>
 **Website:** [https://inkscape.org/](https://inkscape.org/)
 
 Use this app for professional vector graphics creation. Inkscape is a professional quality vector graphics software used by design professionals and hobbyists worldwide for creating a wide variety of graphics such as illustrations, icons, logos, diagrams, maps, and web graphics.

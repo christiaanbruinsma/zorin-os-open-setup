@@ -1,6 +1,6 @@
 # File Auditor
 
-**Category:** Open Business Tools → Files & Insight
+**Category:** Open Business Tools → Files & Insight<br>
 **Website:** https://github.com/christiaanbruinsma/file-auditor
 
 Inspect file identity, metadata and privacy signals, then verify integrity locally. Examine files for security and privacy information.

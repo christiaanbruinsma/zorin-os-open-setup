@@ -1,6 +1,6 @@
 # Chromium
 
-**Category:** Utilities → Web Browser
+**Category:** Utilities → Web Browser<br>
 **Website:** [https://www.chromium.org/](https://www.chromium.org/)
 
 Use this app as an open-source web browser for a safer, faster, and more stable way to experience the web.

@@ -1,6 +1,6 @@
 # Obsidian
 
-**Category:** Productivity → Note Taking
+**Category:** Productivity → Note Taking<br>
 **Website:** [https://obsidian.md](https://obsidian.md)
 
 Use this app as a free and flexible tool for your private thoughts. Obsidian stores notes locally on your device as plain text Markdown files, giving you full ownership of your data.

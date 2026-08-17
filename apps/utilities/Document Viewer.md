@@ -1,6 +1,6 @@
 # Document Viewer
 
-**Category:** Utilities → Document Viewer
+**Category:** Utilities → Document Viewer<br>
 **Website:** [https://gitlab.gnome.org/GNOME/evince](https://gitlab.gnome.org/GNOME/evince)
 
 Use this app to view multiple document formats. Document Viewer (Evince) aims to replace the multiple document viewers on the GNOME Desktop with a single simple application.
