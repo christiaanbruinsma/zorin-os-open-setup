@@ -1,6 +1,6 @@
 # File Roller
 
-**Category:** Utilities → Archive Manager<br>
+**Category:** Utilities → Archive Manager<br><br>
 **Website:** [https://gitlab.gnome.org/GNOME/file-roller](https://gitlab.gnome.org/GNOME/file-roller)
 
 Use this app as an archive manager utility for the GNOME Environment. File Roller is a graphical front-end to archiving programs like tar and zip, allowing you to create, modify, and extract archives.
@@ -32,7 +32,7 @@ File Roller comes installed by default on Zorin OS. It is also available in the 
 - Default archive manager for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

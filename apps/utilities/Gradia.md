@@ -1,6 +1,6 @@
 # Gradia
 
-**Category:** Utilities → Screenshot Enhancement<br>
+**Category:** Utilities → Screenshot Enhancement<br><br>
 **Website:** [https://gradia.alexandervanhee.be/](https://gradia.alexandervanhee.be/)
 
 Use this app to make your screenshots ready for sharing. Gradia helps you beautify, annotate, and share screenshots seamlessly, allowing you to quickly modify screenshots of application windows, add backgrounds, annotations, and prepare them for sharing with friends, colleagues, or a professional audience.
@@ -25,7 +25,7 @@ Gradia is available in the Zorin OS Software app and can also be downloaded from
 - Available on Flathub and Snap Store
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # GNOME Power Statistics
 
-**Category:** Utilities → Power Management<br>
+**Category:** Utilities → Power Management<br><br>
 **Website:** [https://gitlab.gnome.org/GNOME/gnome-power-manager/](https://gitlab.gnome.org/GNOME/gnome-power-manager/)
 
 Use this app to observe power management on your laptop. GNOME Power Statistics shows historical and current battery information and identifies programs that wake up and use power, which is useful for troubleshooting battery issues or determining what programs are using significant amounts of power.
@@ -23,7 +23,7 @@ GNOME Power Statistics is available in the Zorin OS Software app and can also be
 - Part of the GNOME ecosystem
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

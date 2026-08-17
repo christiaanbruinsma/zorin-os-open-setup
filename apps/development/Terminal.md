@@ -1,6 +1,6 @@
 # Terminal
 
-**Category:** Development → Terminal<br>
+**Category:** Development → Terminal<br><br>
 **Website:** [https://gitlab.gnome.org/GNOME/gnome-terminal](https://gitlab.gnome.org/GNOME/gnome-terminal)
 
 Use this app as a terminal emulator for the GNOME desktop environment. Terminal allows you to execute commands, run programs, and access the command-line interface with a user-friendly graphical window.
@@ -30,7 +30,7 @@ Terminal comes installed by default on Zorin OS. It is also available in the Zor
 - Built on the VTE library for robust terminal emulation
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

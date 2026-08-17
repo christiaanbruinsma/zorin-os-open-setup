@@ -1,6 +1,6 @@
 # HandBrake
 
-**Category:** Creativity → Video Transcoding<br>
+**Category:** Creativity → Video Transcoding<br><br>
 **Website:** [https://handbrake.fr/](https://handbrake.fr/)
 
 Use this app to convert video from nearly any format. HandBrake is an open-source video transcoder that converts video files to modern, widely supported codecs, making it ideal for creating compatible versions of your videos for various devices and platforms.
@@ -35,7 +35,7 @@ HandBrake is available in the Zorin OS Software app and can also be downloaded f
 - Uses various (L)GPL, BSD, and MIT licensed libraries
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

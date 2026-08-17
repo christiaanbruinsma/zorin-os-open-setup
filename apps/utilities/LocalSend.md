@@ -1,6 +1,6 @@
 # LocalSend
 
-**Category:** Utilities → File Transfer<br>
+**Category:** Utilities → File Transfer<br><br>
 **Website:** [https://localsend.org/](https://localsend.org/)
 
 Use this app to share files without the cloud. LocalSend provides fast, private, offline file sharing across your local network, allowing you to transfer files between nearby devices securely without requiring internet access or third-party servers.
@@ -29,7 +29,7 @@ LocalSend is available in the Zorin OS Software app and can also be downloaded f
 - Data never leaves your local network
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

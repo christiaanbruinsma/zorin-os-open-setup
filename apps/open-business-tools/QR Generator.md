@@ -1,6 +1,6 @@
 # QR Generator
 
-**Category:** Open Business Tools → Everyday Work<br>
+**Category:** Open Business Tools → Everyday Work<br><br>
 **Website:** https://github.com/christiaanbruinsma/qr-generator
 
 Create and export QR codes locally as PNG or SVG without accounts, tracking or history. Generate QR codes for various use cases while maintaining privacy.
@@ -22,7 +22,7 @@ QR Generator is available on GitHub. Download the latest release from the projec
 - No data is sent to external services
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

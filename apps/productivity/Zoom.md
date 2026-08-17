@@ -1,6 +1,6 @@
 # Zoom
 
-**Category:** Productivity → Communication<br>
+**Category:** Productivity → Communication<br><br>
 **Website:** [https://www.zoom.us/](https://www.zoom.us/)
 
 Use this app for video conferencing and online meetings. Zoom provides a platform for virtual meetings, webinars, and collaboration with features like video calls, screen sharing, and chat.
@@ -27,7 +27,7 @@ Zoom is available in the Zorin OS Software app and can also be downloaded from t
 - Offers various plans including free and paid options
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # Text Editor
 
-**Category:** Utilities → Text Editor<br>
+**Category:** Utilities → Text Editor<br><br>
 **Website:** [https://apps.gnome.org/TextEditor/](https://apps.gnome.org/TextEditor/)
 
 Use this app to edit text files. Text Editor is a simple text editor by The GNOME Project focused on a pleasing default experience, and comes installed by default on Zorin OS.
@@ -22,7 +22,7 @@ Text Editor comes installed by default on Zorin OS. It is also available in the 
 - Default text editor for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

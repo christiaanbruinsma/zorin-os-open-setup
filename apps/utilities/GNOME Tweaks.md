@@ -1,6 +1,6 @@
 # GNOME Tweaks
 
-**Category:** Utilities → Customization<br>
+**Category:** Utilities → Customization<br><br>
 **Website:** [https://gitlab.gnome.org/GNOME/gnome-tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks)
 
 Use this app to customize advanced GNOME settings not available in the standard Settings app. GNOME Tweaks provides access to additional configuration options for fine-tuning your desktop experience.
@@ -25,7 +25,7 @@ GNOME Tweaks is available in the Zorin OS Software app and can also be downloade
 - Formerly known as GNOME Tweak Tool
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

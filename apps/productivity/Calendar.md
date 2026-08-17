@@ -1,6 +1,6 @@
 # Calendar
 
-**Category:** Productivity → Calendar<br>
+**Category:** Productivity → Calendar<br><br>
 **Website:** [https://apps.gnome.org/Calendar/](https://apps.gnome.org/Calendar/)
 
 Use this app to manage your schedule. Calendar is an elegant tool by The GNOME Project that helps you plan and stay on top of your schedule for upcoming days, weeks, and months.
@@ -24,7 +24,7 @@ Calendar comes installed by default on Zorin OS. It is also available in the Zor
 - Default calendar application for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

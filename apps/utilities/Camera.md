@@ -1,6 +1,6 @@
 # Camera
 
-**Category:** Utilities → Camera<br>
+**Category:** Utilities → Camera<br><br>
 **Website:** [https://apps.gnome.org/Snapshot/](https://apps.gnome.org/Snapshot/)
 
 Use this app to take pictures and videos on your computer, tablet, or phone.
@@ -23,7 +23,7 @@ Camera comes installed by default on Zorin OS. It is also available in the Zorin
 - Default camera application for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

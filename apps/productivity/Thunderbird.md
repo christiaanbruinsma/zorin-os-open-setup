@@ -1,6 +1,6 @@
 # Thunderbird
 
-**Category:** Productivity → Email<br>
+**Category:** Productivity → Email<br><br>
 **Website:** [https://www.thunderbird.net/](https://www.thunderbird.net/)
 
 Use this app as a powerful email, calendar, and contacts application. Thunderbird provides a fast, unified way to access all your messages, calendars, and contacts, allowing you to filter and organize emails the way you like, with support for managing all accounts separately or in a unified inbox.
@@ -28,7 +28,7 @@ Thunderbird is available in the Zorin OS Software app and can also be downloaded
 - Funded by user donations
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

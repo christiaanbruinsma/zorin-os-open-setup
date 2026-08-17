@@ -1,6 +1,6 @@
 # Remmina
 
-**Category:** Utilities → Remote Desktop<br>
+**Category:** Utilities → Remote Desktop<br><br>
 **Website:** [https://remmina.org/](https://remmina.org/)
 
 Use this app for remote access to other desktops and file sharing. Remmina is a free and open-source remote desktop client that supports multiple protocols.
@@ -22,7 +22,7 @@ Remmina is available in the Zorin OS Software app and can also be downloaded fro
 - Actively maintained and translated by the community
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

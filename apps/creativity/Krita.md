@@ -1,6 +1,6 @@
 # Krita
 
-**Category:** Creativity → Digital Painting<br>
+**Category:** Creativity → Digital Painting<br><br>
 **Website:** [https://krita.org/en/](https://krita.org/en/)
 
 Use this app for professional digital painting. Krita is a professional free and open-source painting program made by artists that want to see affordable art tools for everyone, offering a comprehensive suite of tools for digital artists.
@@ -36,7 +36,7 @@ Krita is available in the Zorin OS Software app and can also be downloaded from 
 - Free forever with no trials or subscriptions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

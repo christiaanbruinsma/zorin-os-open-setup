@@ -1,6 +1,6 @@
 # FileZilla
 
-**Category:** Utilities → File Transfer<br>
+**Category:** Utilities → File Transfer<br><br>
 **Website:** [https://filezilla-project.org/](https://filezilla-project.org/)
 
 Use this app to transfer files between your computer and remote servers. FileZilla is a cross-platform FTP, FTPS, and SFTP client with an intuitive interface.
@@ -30,7 +30,7 @@ FileZilla is available in the Zorin OS Software app and can also be downloaded f
 - Does not collect usage data by default
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

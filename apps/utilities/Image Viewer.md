@@ -1,6 +1,6 @@
 # Image Viewer
 
-**Category:** Utilities → Image Viewer<br>
+**Category:** Utilities → Image Viewer<br><br>
 **Website:** [https://gitlab.gnome.org/GNOME/eog](https://gitlab.gnome.org/GNOME/eog)
 
 Use this app to view and browse through images on your system. Image Viewer is the default GNOME image viewer, also known as Eye of GNOME (EOG), providing a simple and efficient way to display various image formats.
@@ -25,7 +25,7 @@ Image Viewer comes installed by default on Zorin OS. It is also available in the
 - Also known as Eye of GNOME (EOG)
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

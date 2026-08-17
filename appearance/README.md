@@ -9,5 +9,5 @@ Customization options for your Zorin OS system.
 - [Installation Guide](./icons/fluent-icon-theme/setup.md) - Step-by-step instructions for installing and applying icon themes.
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*

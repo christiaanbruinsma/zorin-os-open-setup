@@ -1,6 +1,6 @@
 # Data Inspector
 
-**Category:** Open Business Tools → Files & Insight<br>
+**Category:** Open Business Tools → Files & Insight<br><br>
 **Website:** https://github.com/christiaanbruinsma/data-inspector
 
 Inspect JSON, CSV and TSV data locally in structured and raw views without rewriting the source. Analyze data files with ease.
@@ -22,7 +22,7 @@ Data Inspector is available on GitHub. Download the latest release from the proj
 - All data analysis happens on your local machine
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

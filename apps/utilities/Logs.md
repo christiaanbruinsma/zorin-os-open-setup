@@ -1,6 +1,6 @@
 # Logs
 
-**Category:** Utilities → System Logs<br>
+**Category:** Utilities → System Logs<br><br>
 **Website:** [https://apps.gnome.org/Logs/](https://apps.gnome.org/Logs/)
 
 Use this app to view detailed event logs for your system. Logs displays events from the systemd journal and organizes them into categories such as hardware and applications, allowing you to search logs and view detailed information about each event.
@@ -23,7 +23,7 @@ Logs comes installed by default on Zorin OS. It is also available in the Zorin O
 - Part of the GNOME Project
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # Chromium
 
-**Category:** Utilities → Web Browser<br>
+**Category:** Utilities → Web Browser<br><br>
 **Website:** [https://www.chromium.org/](https://www.chromium.org/)
 
 Use this app as an open-source web browser for a safer, faster, and more stable way to experience the web.
@@ -22,7 +22,7 @@ Chromium is available in the Zorin OS Software app and can also be downloaded fr
 - Features and privacy may vary depending on the distribution's build
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

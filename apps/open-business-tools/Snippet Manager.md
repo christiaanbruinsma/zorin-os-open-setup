@@ -1,6 +1,6 @@
 # Snippet Manager
 
-**Category:** Open Business Tools → Everyday Work<br>
+**Category:** Open Business Tools → Everyday Work<br><br>
 **Website:** https://github.com/christiaanbruinsma/snippet-manager
 
 Organize and reuse replies, business details, code fragments and other frequently used text. Save time by quickly inserting pre-defined text snippets.
@@ -22,7 +22,7 @@ Snippet Manager is available on GitHub. Download the latest release from the pro
 - All snippet data remains on your local machine
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

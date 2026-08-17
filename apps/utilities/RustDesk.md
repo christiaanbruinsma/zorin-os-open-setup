@@ -1,6 +1,6 @@
 # RustDesk
 
-**Category:** Utilities → Remote Desktop<br>
+**Category:** Utilities → Remote Desktop<br><br>
 **Website:** [https://rustdesk.com/](https://rustdesk.com/)
 
 Use this app to remotely access and control other computers. RustDesk is a secure, open-source alternative for remote desktop connections, ideal for providing remote support.
@@ -23,7 +23,7 @@ RustDesk is available in the Zorin OS Software app and can also be downloaded fr
 - Self-hosting option available for full control
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

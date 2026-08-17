@@ -1,6 +1,6 @@
 # OnlyOffice
 
-**Category:** Productivity → Office Suite<br>
+**Category:** Productivity → Office Suite<br><br>
 **Website:** [https://www.onlyoffice.com](https://www.onlyoffice.com)
 
 Use this app to work on your office files such as text documents, spreadsheets, presentations, and PDF files. OnlyOffice has a nice modern interface and supports various file formats like Word and Excel.
@@ -20,7 +20,7 @@ OnlyOffice is available in the Zorin OS Software app and can also be downloaded 
 - Supports editing PDF files directly, which is useful for annotations or form filling.
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

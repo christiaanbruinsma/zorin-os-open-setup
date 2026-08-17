@@ -1,6 +1,6 @@
 # Firewall Configuration
 
-**Category:** Utilities → Firewall<br>
+**Category:** Utilities → Firewall<br><br>
 **Website:** [https://github.com/costales/gufw](https://github.com/costales/gufw)
 
 Use this app as an easy and intuitive way to manage your Linux firewall. gufw supports common tasks such as allowing or blocking pre-configured applications, common P2P applications, or individual ports.
@@ -23,7 +23,7 @@ gufw comes installed by default on Zorin OS. It can also be installed from the Z
 - Default firewall management tool for many Linux distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

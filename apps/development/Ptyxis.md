@@ -1,6 +1,6 @@
 # Ptyxis
 
-**Category:** Development → Terminal<br>
+**Category:** Development → Terminal<br><br>
 **Website:** [https://gitlab.gnome.org/chergert/ptyxis](https://gitlab.gnome.org/chergert/ptyxis)
 
 Use this app as a modern terminal emulator built for the container era, designed to seamlessly navigate between your host system and local containers like Podman, Toolbox, and Distrobox.
@@ -25,7 +25,7 @@ Ptyxis is available in the Zorin OS Software app and can also be downloaded from
 - Default terminal in Fedora Workstation, Red Hat Enterprise Linux, and Ubuntu
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # Audacity
 
-**Category:** Creativity → Audio Editor<br>
+**Category:** Creativity → Audio Editor<br><br>
 **Website:** [https://www.audacityteam.org/](https://www.audacityteam.org/)
 
 Use this app to record and edit audio. Audacity is the world's most popular free, easy-to-use, multi-track audio editor and recorder for creating music, podcasts, and other audio content.
@@ -23,7 +23,7 @@ Audacity is available in the Zorin OS Software app and can also be downloaded fr
 - Source code is open for anyone to view or modify
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

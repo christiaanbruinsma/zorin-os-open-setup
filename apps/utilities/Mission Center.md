@@ -1,6 +1,6 @@
 # Mission Center
 
-**Category:** Utilities → System Monitor<br>
+**Category:** Utilities → System Monitor<br><br>
 **Website:** [https://missioncenter.io/](https://missioncenter.io/)
 
 Use this app to monitor your CPU, Memory, Disk, Network, and GPU usage. Mission Center provides a comprehensive overview of your system's performance in a clean, user-friendly interface.
@@ -29,7 +29,7 @@ Mission Center is available in the Zorin OS Software app and can also be downloa
 - On Linux Mint/Cinnamon, launched applications may not appear in the Applications section
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

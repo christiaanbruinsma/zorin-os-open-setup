@@ -1,6 +1,6 @@
 # Vivaldi
 
-**Category:** Utilities → Web Browser<br>
+**Category:** Utilities → Web Browser<br><br>
 **Website:** [https://vivaldi.com/](https://vivaldi.com/)
 
 Use this app as a powerful, personal, and private web browser with unmatched customization. Vivaldi is designed for users who demand more from their browser.
@@ -29,7 +29,7 @@ Vivaldi is available in the Zorin OS Software app and can also be downloaded fro
 - Independent European company
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

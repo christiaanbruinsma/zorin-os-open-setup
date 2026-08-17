@@ -1,6 +1,6 @@
 # Clocks
 
-**Category:** Utilities → Clock<br>
+**Category:** Utilities → Clock<br><br>
 **Website:** [https://apps.gnome.org/Clocks/](https://apps.gnome.org/Clocks/)
 
 Use this app to keep track of time. Clocks is a simple and elegant clock application by The GNOME Project that includes world clocks, alarms, a stopwatch, and timers.
@@ -23,7 +23,7 @@ Clocks comes installed by default on Zorin OS. It is also available in the Zorin
 - Default clock application for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

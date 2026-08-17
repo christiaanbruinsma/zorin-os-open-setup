@@ -1,6 +1,6 @@
 # GIMP
 
-**Category:** Creativity → Image Editor<br>
+**Category:** Creativity → Image Editor<br><br>
 **Website:** [https://www.gimp.org/](https://www.gimp.org/)
 
 Use this app as a free and open-source image editor. GIMP (GNU Image Manipulation Program) is a cross-platform image editor that provides sophisticated tools for graphic designers, photographers, illustrators, and scientists to get their work done.
@@ -28,7 +28,7 @@ GIMP is available in the Zorin OS Software app and can also be downloaded from t
 - Part of the free software ecosystem
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

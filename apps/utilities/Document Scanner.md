@@ -1,6 +1,6 @@
 # Document Scanner
 
-**Category:** Utilities → Scanner<br>
+**Category:** Utilities → Scanner<br><br>
 **Website:** [https://apps.gnome.org/SimpleScan/](https://apps.gnome.org/SimpleScan/)
 
 Use this app to make a digital copy of your photos and documents. Document Scanner is an easy way to scan both text and images, with options to crop, rotate, and export your scans.
@@ -22,7 +22,7 @@ Document Scanner comes installed by default on Zorin OS. It is also available in
 - Default document scanning tool for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # Git Desk
 
-**Category:** Open Business Tools → Development Tools<br>
+**Category:** Open Business Tools → Development Tools<br><br>
 **Website:** https://github.com/christiaanbruinsma/git-desk
 
 Easy to start. Powerful enough to stay. A user-friendly Git client with all basic Git features plus a built-in Git Guide.
@@ -22,7 +22,7 @@ Git Desk is available on GitHub. Download the latest release from the project pa
 - All data remains on your local machine
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # VLC
 
-**Category:** Creativity → Media Player<br>
+**Category:** Creativity → Media Player<br><br>
 **Website:** [https://www.videolan.org/](https://www.videolan.org/)
 
 Use this app as a free and open-source cross-platform multimedia player. VLC plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols, making it a versatile solution for all your media playback needs.
@@ -29,7 +29,7 @@ VLC is available in the Zorin OS Software app and can also be downloaded from th
 - No spyware, no ads, no user tracking
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

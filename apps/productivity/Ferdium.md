@@ -1,6 +1,6 @@
 # Ferdium
 
-**Category:** Productivity → Communication<br>
+**Category:** Productivity → Communication<br><br>
 **Website:** [https://ferdium.org/](https://ferdium.org/)
 
 Use this app to have all your services in one place. Ferdium is a community-built tool that lets you add and manage multiple services from a single interface.
@@ -27,7 +27,7 @@ Ferdium can be downloaded from the official website.
 - Cloud sync requires an account
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

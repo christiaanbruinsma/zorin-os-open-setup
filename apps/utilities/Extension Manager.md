@@ -1,6 +1,6 @@
 # Extension Manager
 
-**Category:** Utilities → Extensions<br>
+**Category:** Utilities → Extensions<br><br>
 **Website:** [https://github.com/mjakeman/extension-manager](https://github.com/mjakeman/extension-manager)
 
 Use this app to browse, install, and manage GNOME Shell Extensions. Extension Manager is a native tool by Matthew Jakeman for discovering and managing extensions from extensions.gnome.org.
@@ -21,7 +21,7 @@ Extension Manager is available in the Zorin OS Software app and can also be down
 - Provides a native way to manage GNOME extensions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

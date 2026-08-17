@@ -1,6 +1,6 @@
 # Firefox
 
-**Category:** Utilities → Web Browser<br>
+**Category:** Utilities → Web Browser<br><br>
 **Website:** [https://www.mozilla.org/en-US/firefox/](https://www.mozilla.org/en-US/firefox/)
 
 Use this app as a fast, private browser that puts you in control. Firefox blocks trackers by default and offers features like tab groups, reader mode, and cross-device sync.
@@ -26,7 +26,7 @@ Firefox is available in the Zorin OS Software app and can also be downloaded fro
 - Does not sell personal data
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

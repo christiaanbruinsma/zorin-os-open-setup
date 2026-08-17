@@ -1,6 +1,6 @@
 # Weather
 
-**Category:** Utilities → Weather<br>
+**Category:** Utilities → Weather<br><br>
 **Website:** [https://apps.gnome.org/Weather/](https://apps.gnome.org/Weather/)
 
 Use this app to monitor weather conditions and forecasts. Weather allows you to check current weather conditions for your city or anywhere in the world, with access to detailed forecasts up to 7 days, including hourly details for the current and next day.
@@ -24,7 +24,7 @@ Weather comes installed by default on Zorin OS. It is also available in the Zori
 - Part of the GNOME Project
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

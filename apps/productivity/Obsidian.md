@@ -1,6 +1,6 @@
 # Obsidian
 
-**Category:** Productivity → Note Taking<br>
+**Category:** Productivity → Note Taking<br><br>
 **Website:** [https://obsidian.md](https://obsidian.md)
 
 Use this app as a free and flexible tool for your private thoughts. Obsidian stores notes locally on your device as plain text Markdown files, giving you full ownership of your data.
@@ -27,7 +27,7 @@ Obsidian is available in the Zorin OS Software app and can also be downloaded fr
 - Optional Sync feature uses end-to-end encryption
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

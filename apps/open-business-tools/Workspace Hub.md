@@ -1,6 +1,6 @@
 # Workspace Hub
 
-**Category:** Open Business Tools → Workspace & Delivery<br>
+**Category:** Open Business Tools → Workspace & Delivery<br><br>
 **Website:** https://github.com/christiaanbruinsma/workspace-hub
 
 A clear starting point for applications, web apps, files, shared locations and daily tools. Designed to provide quick access to everything needed for daily work.
@@ -22,7 +22,7 @@ Workspace Hub is available on GitHub. Download the latest release from the proje
 - All data remains on your local machine
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

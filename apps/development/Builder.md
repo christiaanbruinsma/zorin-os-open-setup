@@ -1,6 +1,6 @@
 # Builder
 
-**Category:** Development → IDE<br>
+**Category:** Development → IDE<br><br>
 **Website:** [https://apps.gnome.org/Builder](https://apps.gnome.org/Builder)
 
 Use this app to develop software for GNOME. Builder is an IDE focused on writing GNOME-based software, designed to streamline development for the GNOME platform.
@@ -23,7 +23,7 @@ Builder is available in the Zorin OS Software app and can also be downloaded fro
 - Language server support automatically locates servers within your build environment
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

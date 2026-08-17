@@ -1,6 +1,6 @@
 # Apostrophe
 
-**Category:** Productivity → Markdown Editor<br>
+**Category:** Productivity → Markdown Editor<br><br>
 **Website:** [https://apps.gnome.org/Apostrophe/](https://apps.gnome.org/Apostrophe/)
 
 Use this app to edit Markdown in style. Apostrophe is a clean, distraction-free markdown editor by Manuel Genovés, designed to help you focus on your writing.
@@ -24,7 +24,7 @@ Apostrophe is available in the Zorin OS Software app and can also be downloaded 
 - Designed for a seamless Markdown writing experience
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

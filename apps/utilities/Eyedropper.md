@@ -1,6 +1,6 @@
 # Eyedropper
 
-**Category:** Utilities → Color Picker<br>
+**Category:** Utilities → Color Picker<br><br>
 **Website:** [https://github.com/FineFindus/eyedropper](https://github.com/FineFindus/eyedropper)
 
 Use this app to pick and format colors. Eyedropper is a tool by FineFindus for advanced users (developers, designers, etc.) who need to pick, modify, or view colors in different formats.
@@ -29,7 +29,7 @@ Eyedropper is available in the Zorin OS Software app and can also be installed f
 - Part of GNOME Circle
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

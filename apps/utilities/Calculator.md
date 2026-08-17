@@ -1,6 +1,6 @@
 # Calculator
 
-**Category:** Utilities → Calculator<br>
+**Category:** Utilities → Calculator<br><br>
 **Website:** [https://apps.gnome.org/Calculator/](https://apps.gnome.org/Calculator/)
 
 Use this app to perform arithmetic, scientific, or financial calculations. Calculator by The GNOME Project solves mathematical equations with multiple modes for different needs.
@@ -24,7 +24,7 @@ Calculator comes installed by default on Zorin OS. It is also available in the Z
 - Default calculator for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # Proton Pass
 
-**Category:** Utilities → Security<br>
+**Category:** Utilities → Security<br><br>
 **Website:** [https://proton.me/pass](https://proton.me/pass)
 
 Use this app as a password manager with end-to-end encryption. Proton Pass securely stores, shares, and autofills your credentials, passkeys, email aliases, and more, protecting your sensitive information with zero-knowledge encryption.
@@ -31,7 +31,7 @@ Proton Pass is available in the Zorin OS Software app and can also be downloaded
 - Zero-knowledge architecture
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

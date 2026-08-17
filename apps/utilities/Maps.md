@@ -1,6 +1,6 @@
 # Maps
 
-**Category:** Utilities → Maps<br>
+**Category:** Utilities → Maps<br><br>
 **Website:** [https://apps.gnome.org/Maps/](https://apps.gnome.org/Maps/)
 
 Use this app to find places around the world. Maps gives you quick access to maps globally, allowing you to quickly find the place you are looking for by searching for a city or street, or locate a place to meet a friend. Maps uses the collaborative OpenStreetMap database.
@@ -26,7 +26,7 @@ Maps comes installed by default on Zorin OS. It is also available in the Zorin O
 - Uses OpenStreetMap data
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

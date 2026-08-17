@@ -1,6 +1,6 @@
 # Disk Usage Analyzer
 
-**Category:** Utilities → Disk Analysis<br>
+**Category:** Utilities → Disk Analysis<br><br>
 **Website:** [https://apps.gnome.org/Baobab/](https://apps.gnome.org/Baobab/)
 
 Use this app to check folder sizes and available disk space. Disk Usage Analyzer is a simple application by The GNOME Project that helps you keep your disk usage under control.
@@ -22,7 +22,7 @@ Disk Usage Analyzer comes installed by default on Zorin OS. It is also available
 - Default disk analysis tool for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # Disks
 
-**Category:** Utilities → Disk Management<br>
+**Category:** Utilities → Disk Management<br><br>
 **Website:** [https://apps.gnome.org/DiskUtility/](https://apps.gnome.org/DiskUtility/)
 
 Use this app to view, modify, and configure disks and storage media. Disks by The GNOME Project provides tools for managing your storage devices, including mounting, formatting, and monitoring.
@@ -22,7 +22,7 @@ Disks comes installed by default on Zorin OS. It is also available in the Zorin 
 - Default disk management tool for GNOME-based distributions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

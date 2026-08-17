@@ -1,6 +1,6 @@
 # Git Cola
 
-**Category:** Development → Git GUI<br>
+**Category:** Development → Git GUI<br><br>
 **Website:** [https://git-cola.github.io/](https://git-cola.github.io/)
 
 Use this app as a sleek and powerful graphical user interface for Git. Git Cola is designed for efficiency and productivity, making Git operations more accessible through an intuitive interface.
@@ -28,7 +28,7 @@ Git Cola is available in the Zorin OS Software app and can also be downloaded fr
 - No telemetry or tracking
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

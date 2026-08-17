@@ -1,6 +1,6 @@
 # Text Cleaner
 
-**Category:** Open Business Tools → Everyday Work<br>
+**Category:** Open Business Tools → Everyday Work<br><br>
 **Website:** https://github.com/christiaanbruinsma/text-cleaner
 
 Inspect and clean text copied from websites, AI tools, email and office documents. Remove unwanted formatting and characters.
@@ -22,7 +22,7 @@ Text Cleaner is available on GitHub. Download the latest release from the projec
 - All text processing happens on your local machine
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

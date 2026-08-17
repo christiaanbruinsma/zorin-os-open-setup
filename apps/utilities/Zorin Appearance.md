@@ -1,6 +1,6 @@
 # Zorin Appearance
 
-**Category:** Utilities → Appearance<br>
+**Category:** Utilities → Appearance<br><br>
 **Website:** [https://zorin.com/os/](https://zorin.com/os/)
 
 Use this app to change the desktop layout to feel like the environment you are familiar with. Zorin Appearance makes it easy to adapt your Zorin OS desktop to resemble Windows, macOS, or traditional Linux layouts.
@@ -21,7 +21,7 @@ Zorin Appearance comes installed by default on Zorin OS.
 - Helps users transition from other operating systems
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

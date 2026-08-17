@@ -1,6 +1,6 @@
 # Delivery Hub
 
-**Category:** Open Business Tools → Workspace & Delivery<br>
+**Category:** Open Business Tools → Workspace & Delivery<br><br>
 **Website:** https://github.com/christiaanbruinsma/delivery-hub
 
 Prepare and verify delivery packages with manifests, checksums and structured ZIP exports. Ensures accurate and reliable delivery of files to clients or team members.
@@ -22,7 +22,7 @@ Delivery Hub is available on GitHub. Download the latest release from the projec
 - All data remains on your local machine
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

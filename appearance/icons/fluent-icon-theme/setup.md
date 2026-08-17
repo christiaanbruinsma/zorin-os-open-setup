@@ -35,5 +35,5 @@ sudo cp -r ~/.icons/Fluent* /usr/share/icons/
 ```
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*

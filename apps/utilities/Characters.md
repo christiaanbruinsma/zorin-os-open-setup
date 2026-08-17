@@ -1,6 +1,6 @@
 # Characters
 
-**Category:** Utilities → Character Map<br>
+**Category:** Utilities → Character Map<br><br>
 **Website:** [https://apps.gnome.org/Characters/](https://apps.gnome.org/Characters/)
 
 Use this app to find and insert unusual characters, emoji, and symbols. Characters is a simple utility that allows you to quickly find the character you are looking for by searching for keywords or browsing by categories.
@@ -22,7 +22,7 @@ Characters comes installed by default on Zorin OS. It is also available in the Z
 - Useful for accessing special characters not available on standard keyboards
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

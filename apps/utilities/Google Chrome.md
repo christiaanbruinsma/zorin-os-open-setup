@@ -1,6 +1,6 @@
 # Google Chrome
 
-**Category:** Utilities → Web Browser<br>
+**Category:** Utilities → Web Browser<br><br>
 **Website:** [https://www.google.com/chrome/](https://www.google.com/chrome/)
 
 Use this app if you rely on Google Chrome for work, specific websites, or extensions that require it.
@@ -22,7 +22,7 @@ Google Chrome is available in the Zorin OS Software app and can also be download
 - Requires a Google account for full sync functionality
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

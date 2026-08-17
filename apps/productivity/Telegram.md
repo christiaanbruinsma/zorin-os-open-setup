@@ -1,6 +1,6 @@
 # Telegram
 
-**Category:** Productivity → Communication<br>
+**Category:** Productivity → Communication<br><br>
 **Website:** [https://telegram.org/](https://telegram.org/)
 
 Use this app as a cloud-based messaging app for mobile and desktop with a focus on security and speed.
@@ -26,7 +26,7 @@ Telegram is available in the Zorin OS Software app and can also be downloaded fr
 - Focus on security and speed
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

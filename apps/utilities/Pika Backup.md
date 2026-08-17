@@ -1,6 +1,6 @@
 # Pika Backup
 
-**Category:** Utilities → Backup<br>
+**Category:** Utilities → Backup<br><br>
 **Website:** [https://apps.gnome.org/PikaBackup/](https://apps.gnome.org/PikaBackup/)
 
 Use this app to keep your data safe. Pika Backup makes backups the easy way: plug in your USB drive and let Pika do the rest.
@@ -25,7 +25,7 @@ Pika Backup is available in the Zorin OS Software app and can also be downloaded
 - Maintained by Sophie Herold and Fina Wilke
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

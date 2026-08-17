@@ -1,6 +1,6 @@
 # Brasero
 
-**Category:** Utilities → Disc Burning<br>
+**Category:** Utilities → Disc Burning<br><br>
 **Website:** [https://gitlab.gnome.org/GNOME/brasero](https://gitlab.gnome.org/GNOME/brasero)
 
 Use this app to create and copy CDs and DVDs. Brasero is a CD/DVD mastering tool for the GNOME Desktop, designed to be simple and easy to use for burning optical media.
@@ -32,7 +32,7 @@ Brasero comes installed by default on Zorin OS. It is also available in the Zori
 - Part of the GNOME Project
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

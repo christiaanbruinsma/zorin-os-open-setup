@@ -1,6 +1,6 @@
 # VSCodium
 
-**Category:** Development → Code Editor<br>
+**Category:** Development → Code Editor<br><br>
 **Website:** [https://vscodium.com/](https://vscodium.com/)
 
 Use this app to write and edit code with a powerful, customizable editor. VSCodium is a community-driven, freely-licensed binary distribution of a popular code editor with telemetry disabled by default.
@@ -23,7 +23,7 @@ VSCodium is available in the Zorin OS Software app and can also be downloaded fr
 - Compatible with Visual Studio Code extensions
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

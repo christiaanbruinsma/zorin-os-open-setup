@@ -1,6 +1,6 @@
 # Evolution
 
-**Category:** Productivity → Email<br>
+**Category:** Productivity → Email<br><br>
 **Website:** [https://wiki.gnome.org/Apps/Evolution](https://wiki.gnome.org/Apps/Evolution)
 
 Use this app to manage your email, calendar, and contacts in one place. Evolution is a full-featured personal information manager with a clean interface and supports Outlook, Gmail, and IMAP accounts.
@@ -21,7 +21,7 @@ Evolution is available in the Zorin OS Software app and can also be downloaded f
 - Supports encrypted email communication
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

@@ -1,6 +1,6 @@
 # Halftone
 
-**Category:** Utilities → Image Processing<br>
+**Category:** Utilities → Image Processing<br><br>
 **Website:** [https://github.com/tfuxu/Halftone](https://github.com/tfuxu/Halftone)
 
 Use this app to give your images a pixel art-like style. Halftone is a simple Libadwaita app for lossy image compression using quantization and dithering techniques, which can also significantly reduce image file size.
@@ -24,7 +24,7 @@ Halftone is available in the Zorin OS Software app and can also be downloaded fr
 - Part of the GNOME ecosystem
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

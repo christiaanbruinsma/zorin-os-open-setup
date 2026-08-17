@@ -1,6 +1,6 @@
 # Blanket
 
-**Category:** Utilities → Ambient Sounds<br>
+**Category:** Utilities → Ambient Sounds<br><br>
 **Website:** [https://github.com/rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket)
 
 Use this app to listen to different sounds. Blanket helps you improve focus and increase productivity, or fall asleep in a noisy environment.
@@ -22,7 +22,7 @@ Blanket is available in the Zorin OS Software app and can also be installed from
 - Translated into multiple languages
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

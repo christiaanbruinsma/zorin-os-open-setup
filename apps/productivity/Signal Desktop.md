@@ -1,6 +1,6 @@
 # Signal Desktop
 
-**Category:** Productivity → Communication<br>
+**Category:** Productivity → Communication<br><br>
 **Website:** [https://signal.org/](https://signal.org/)
 
 Use this app to communicate with end-to-end encryption. Signal Desktop allows you to send messages, make voice and video calls, share files, and more with state-of-the-art encryption that keeps your conversations secure and private.
@@ -27,7 +27,7 @@ Signal Desktop is available in the Zorin OS Software app and can also be downloa
 - Uses the Signal Protocol for encryption
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---

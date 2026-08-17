@@ -1,6 +1,6 @@
 # Brave Browser
 
-**Category:** Utilities → Web Browser<br>
+**Category:** Utilities → Web Browser<br><br>
 **Website:** [https://brave.com/](https://brave.com/)
 
 Use this app as a browser that prioritizes privacy and performance. Brave blocks ads and trackers by default, resulting in faster page loads and reduced data usage.
@@ -25,7 +25,7 @@ Brave Browser is available in the Zorin OS Software app and can also be download
 - Some features like Brave Rewards are optional
 
 ---
-*Created: 17-08-2026*
+*Created: 17-08-2026*<br>
 *Last updated: 17-08-2026*
 
 ---
